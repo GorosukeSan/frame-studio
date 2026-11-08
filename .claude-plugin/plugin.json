@@ -1,0 +1,8 @@
+{
+  "name": "frame-studio",
+  "version": "0.1.0",
+  "description": "図形・文字・画像を重ねた複数フレーム（GIF的）を Canvas エディタで描き、そのまま Claude に指示を送る",
+  "author": { "name": "GorosukeSan" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "frame-studio",
+  "owner": { "name": "GorosukeSan" },
+  "plugins": [{ "name": "frame-studio", "source": "./" }]
+}
